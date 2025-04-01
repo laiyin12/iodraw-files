@@ -15,7 +15,7 @@
         <mxCell id="PFk8SHxjLU9uvzsWf0hO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PFk8SHxjLU9uvzsWf0hO-1" target="PFk8SHxjLU9uvzsWf0hO-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PFk8SHxjLU9uvzsWf0hO-20" value="WIFI/蓝牙" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PFk8SHxjLU9uvzsWf0hO-17" vertex="1" connectable="0">
+        <mxCell id="PFk8SHxjLU9uvzsWf0hO-20" value="WIFI/蓝牙（Wi-Fi/Bluetooth）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PFk8SHxjLU9uvzsWf0hO-17" vertex="1" connectable="0">
           <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
