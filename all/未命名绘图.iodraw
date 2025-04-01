@@ -122,7 +122,7 @@
             <mxPoint x="760" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7tDQAJHDUlgdX75UDbB-10" value="视觉处理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-10" value="视觉处理层（Уровень визуальной обработки）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="870" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7tDQAJHDUlgdX75UDbB-11" target="D7tDQAJHDUlgdX75UDbB-13">
