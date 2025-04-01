@@ -71,7 +71,7 @@
         <mxCell id="PFk8SHxjLU9uvzsWf0hO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PFk8SHxjLU9uvzsWf0hO-16" target="PFk8SHxjLU9uvzsWf0hO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PFk8SHxjLU9uvzsWf0hO-22" value="控制指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PFk8SHxjLU9uvzsWf0hO-21" vertex="1" connectable="0">
+        <mxCell id="PFk8SHxjLU9uvzsWf0hO-22" value="控制指令（Инструкции по контролю）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PFk8SHxjLU9uvzsWf0hO-21" vertex="1" connectable="0">
           <mxGeometry x="0.1" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
