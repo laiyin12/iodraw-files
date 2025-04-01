@@ -118,7 +118,7 @@
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="920" as="sourcePoint" />
+            <mxPoint x="210" y="920" as="sourcePoint" />
             <mxPoint x="760" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -144,8 +144,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7tDQAJHDUlgdX75UDbB-13" value="目标检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="860" width="100" height="50" as="geometry" />
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-13" value="目标检测（Обнаружение объектов）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7tDQAJHDUlgdX75UDbB-16" target="D7tDQAJHDUlgdX75UDbB-20">
           <mxGeometry relative="1" as="geometry" />
@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-16" value="决策逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="860" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-19" value="控制输出层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="980" width="70" height="30" as="geometry" />
