@@ -145,7 +145,7 @@
         <mxCell id="D7tDQAJHDUlgdX75UDbB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7tDQAJHDUlgdX75UDbB-16" target="D7tDQAJHDUlgdX75UDbB-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7tDQAJHDUlgdX75UDbB-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D7tDQAJHDUlgdX75UDbB-21">
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-22" value="舵机角度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D7tDQAJHDUlgdX75UDbB-21">
           <mxGeometry x="-0.1875" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
