@@ -158,7 +158,7 @@
         <mxCell id="D7tDQAJHDUlgdX75UDbB-16" value="决策逻辑（Логика принятия решения）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="860" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D7tDQAJHDUlgdX75UDbB-19" value="控制输出层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-19" value="控制输出层（Управление выходным слоем）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="980" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7tDQAJHDUlgdX75UDbB-20" target="D7tDQAJHDUlgdX75UDbB-23">
