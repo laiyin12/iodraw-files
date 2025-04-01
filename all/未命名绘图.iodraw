@@ -157,12 +157,17 @@
           <mxGeometry x="160" y="980" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7tDQAJHDUlgdX75UDbB-20" target="D7tDQAJHDUlgdX75UDbB-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="1010" />
+              <mxPoint x="382" y="1015" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-20" value="逆运动学解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="990" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D7tDQAJHDUlgdX75UDbB-23" value="逆运动学解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-23" value="舵机控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="990" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
