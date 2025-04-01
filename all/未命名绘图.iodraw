@@ -173,7 +173,10 @@
           <mxGeometry x="242" y="990" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-23" value="舵机控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422" y="990" width="100" height="50" as="geometry" />
+          <mxGeometry x="430" y="990" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1060" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
