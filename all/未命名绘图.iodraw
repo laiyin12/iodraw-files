@@ -120,7 +120,7 @@
         <mxCell id="D7tDQAJHDUlgdX75UDbB-10" value="视觉处理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="870" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D7tDQAJHDUlgdX75UDbB-11" value="帧缓存队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-11" value="图像预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="860" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
