@@ -134,6 +134,11 @@
         <mxCell id="D7tDQAJHDUlgdX75UDbB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7tDQAJHDUlgdX75UDbB-13" target="D7tDQAJHDUlgdX75UDbB-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D7tDQAJHDUlgdX75UDbB-18" value="坐标/特征" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D7tDQAJHDUlgdX75UDbB-17">
+          <mxGeometry x="-0.0159" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D7tDQAJHDUlgdX75UDbB-13" value="目标检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="860" width="100" height="50" as="geometry" />
         </mxCell>
