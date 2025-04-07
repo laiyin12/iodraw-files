@@ -241,6 +241,11 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-65" target="T4-3Vj0E5ZIjlZVVWn3w-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-72" value="将模拟图像转换为数据信息进行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-64">
+          <mxGeometry x="-0.3644" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-65" value="摄像头（Камера）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
