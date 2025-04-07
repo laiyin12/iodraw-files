@@ -350,7 +350,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-99" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman, serif&quot;&gt;LD3320A语音控制模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-99" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman, serif&quot;&gt;LD3320A语音控制模块&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman, serif&quot;&gt;Модуль голосового управления&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897.5" y="1680" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-102" target="T4-3Vj0E5ZIjlZVVWn3w-108">
