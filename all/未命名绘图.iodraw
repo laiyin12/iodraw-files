@@ -242,7 +242,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-65" value="摄像头（Камера）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-66" value="树莓派4B（MCU）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="1500" width="120" height="60" as="geometry" />
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-68" value="12V/24V 电源（Блок питания）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-69" value="手势信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
