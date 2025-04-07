@@ -252,6 +252,11 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-66" target="T4-3Vj0E5ZIjlZVVWn3w-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-74">
+          <mxGeometry x="-0.185" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-66" value="树莓派4B（MCU）&lt;div&gt;处理器基于opencv库对图像信息进行加工，提取特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
@@ -272,7 +277,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-69" value="手势信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-73" value="树莓派4B（MCU）&lt;div&gt;处理器基于opencv库对图像信息进行加工，提取特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-73" value="执行子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
