@@ -339,7 +339,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-86" value="12V/24V 电源（Блок питания）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-96" value="手势识别子模块（功能）&lt;div&gt;Подмодуль распознавания жестов (функция)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-96" value="语音识别子模块（功能）&lt;div&gt;Субмодуль распознавания речи (функция)&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="1490" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-99" target="T4-3Vj0E5ZIjlZVVWn3w-102">
