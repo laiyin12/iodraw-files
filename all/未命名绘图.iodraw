@@ -247,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-65" value="摄像头（Камера）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-66" target="T4-3Vj0E5ZIjlZVVWn3w-73">
           <mxGeometry relative="1" as="geometry" />
@@ -258,13 +258,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-66" value="树莓派4B（MCU）&lt;div&gt;处理器基于opencv库对图像信息进行加工，提取特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1810" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-68" target="T4-3Vj0E5ZIjlZVVWn3w-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-68" value="12V/24V 电源（Блок питания）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-69" target="T4-3Vj0E5ZIjlZVVWn3w-65">
           <mxGeometry relative="1" as="geometry" />
