@@ -286,17 +286,17 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-83" target="T4-3Vj0E5ZIjlZVVWn3w-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-83" value="摄像头（Камера）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1350" width="120" height="60" as="geometry" />
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-83" value="语音控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-84" value="树莓派4B（MCU）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-86" target="T4-3Vj0E5ZIjlZVVWn3w-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-86" value="12V/24V 电源（Блок питания）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
