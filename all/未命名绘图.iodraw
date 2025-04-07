@@ -303,8 +303,8 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-73" value="执行子系统（Подсистема исполнения）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-80" value="语音识别子模块（硬件）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1280" width="135" height="40" as="geometry" />
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-80" value="语音识别子模块（硬件）&lt;div&gt;Субмодуль распознавания речи (аппаратный)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1280" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-83" target="T4-3Vj0E5ZIjlZVVWn3w-84">
           <mxGeometry relative="1" as="geometry" />
