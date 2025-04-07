@@ -221,11 +221,16 @@
           <mxGeometry x="35" y="1290" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-56" target="T4-3Vj0E5ZIjlZVVWn3w-58">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1360" />
+              <mxPoint x="320" y="1360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-87" value="信息传输" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-59">
           <mxGeometry x="-0.1824" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-56" value="摄像头（Камера）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -233,6 +238,14 @@
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-57" value="手势识别子模块（功能）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1450" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-58" target="T4-3Vj0E5ZIjlZVVWn3w-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1380" />
+              <mxPoint x="320" y="1380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-58" value="树莓派4B（MCU）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1340" width="120" height="60" as="geometry" />
