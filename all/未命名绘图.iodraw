@@ -256,9 +256,9 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-69" target="T4-3Vj0E5ZIjlZVVWn3w-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-71" value="摄像头识别手势图案基于" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-70">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-71" value="摄像头识别手势图案基于opencv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-70">
           <mxGeometry x="-0.2558" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-69" value="手势信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
