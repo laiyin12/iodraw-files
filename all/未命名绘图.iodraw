@@ -247,7 +247,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-89" value="提高电源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-88">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-89" value="提供电源&lt;div&gt;Обеспечить питание&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-88">
           <mxGeometry x="-0.2595" relative="1" as="geometry">
             <mxPoint x="-11" y="10" as="offset" />
           </mxGeometry>
