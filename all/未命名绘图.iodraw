@@ -252,7 +252,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-66" target="T4-3Vj0E5ZIjlZVVWn3w-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-74">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-75" value="将特征对应的信号传递给执行子系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-74">
           <mxGeometry x="-0.185" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
