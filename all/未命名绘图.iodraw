@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-66" value="树莓派4B（MCU）&lt;div&gt;处理器基于opencv库对图像信息进行加工，提取特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-68" target="T4-3Vj0E5ZIjlZVVWn3w-66">
           <mxGeometry relative="1" as="geometry" />
@@ -269,7 +269,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-69" target="T4-3Vj0E5ZIjlZVVWn3w-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-71" value="摄像头识别手势图案基于opencv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-70">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-71" value="摄像头识别手势图案基于opencv&lt;div&gt;Шаблон жестов распознавания камеры на основе opencv&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T4-3Vj0E5ZIjlZVVWn3w-70">
           <mxGeometry x="-0.2558" y="3" relative="1" as="geometry">
             <mxPoint x="24" y="-7" as="offset" />
           </mxGeometry>
@@ -278,7 +278,7 @@
           <mxGeometry x="35" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-73" value="执行子系统（Подсистема исполнения）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1890" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
