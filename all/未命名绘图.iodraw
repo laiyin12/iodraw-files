@@ -309,7 +309,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-83" target="T4-3Vj0E5ZIjlZVVWn3w-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-83" value="语音控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-83" value="语音控制模块Модуль голосового управления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-84" value="树莓派4B（MCU）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
