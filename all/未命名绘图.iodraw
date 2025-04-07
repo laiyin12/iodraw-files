@@ -217,7 +217,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-54" value="调试终端（Отладочный терминал）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1120" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-55" value="手势识别子模块（硬件）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-55" value="手势识别子模块（硬件）&lt;div&gt;Субмодуль распознавания жестов (аппаратный)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="1290" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T4-3Vj0E5ZIjlZVVWn3w-56" target="T4-3Vj0E5ZIjlZVVWn3w-58">
