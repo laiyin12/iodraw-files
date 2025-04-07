@@ -226,7 +226,7 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-56" value="摄像头（Камера）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-57" value="手势识别子模块（硬件）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-57" value="手势识别子模块（功能）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1450" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-58" value="树莓派4B（MCU）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
