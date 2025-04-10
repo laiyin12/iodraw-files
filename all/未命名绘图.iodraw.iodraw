@@ -86,7 +86,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-29" value="VNC远程控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="150" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-30" value="上位机控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-30" value="手势捕捉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="100" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
