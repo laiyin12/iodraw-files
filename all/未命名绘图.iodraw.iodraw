@@ -160,7 +160,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="1065" width="455" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-114" value="IMU.声音传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-114" value="IMU.声音传感器Звуковой датчик" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="1115" width="385" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-115" value="传感器датчик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
