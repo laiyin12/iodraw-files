@@ -106,7 +106,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-54" value="通用函数Универсальные функции" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="622" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-55" value="强化学习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-55" value="强化学习Обучение с подкреплением" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="692" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-56" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -119,7 +119,7 @@
           <mxGeometry x="767.5" y="540" width="610" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-67" value="状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787.5" y="622" width="130" height="60" as="geometry" />
+          <mxGeometry x="800" y="625" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-68" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="807.5" y="692" width="510" height="70" as="geometry" />
