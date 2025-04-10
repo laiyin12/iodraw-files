@@ -179,6 +179,13 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-109" value="伺服总线驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="1040" width="500" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-110" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="1330" as="sourcePoint" />
+            <mxPoint x="520" y="1330" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
