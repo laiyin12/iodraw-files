@@ -167,6 +167,9 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="165" y="1000" width="1095" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-98" value="模型预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1030" width="270" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
