@@ -80,7 +80,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-27" value="老人特征捕捉Учет характеристик пожилых людей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
           <mxGeometry x="1035" y="40" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-28" value="姿态捕捉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-28" value="姿态捕捉Захват позы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="220" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-29" value="面部捕捉Захват лица" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
