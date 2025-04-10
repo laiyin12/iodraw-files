@@ -140,19 +140,19 @@
           <mxGeometry x="1060" y="625" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="810" width="1185" height="230" as="geometry" />
+          <mxGeometry x="125" y="820" width="1185" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-98" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="840" width="500" height="80" as="geometry" />
+          <mxGeometry x="140" y="840" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-107" value="BBMS电池控制管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="950" width="500" height="80" as="geometry" />
+          <mxGeometry x="175" y="960" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-108" value="电机驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="762.5" y="950" width="500" height="80" as="geometry" />
+          <mxGeometry x="690" y="953" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-109" value="伺服总线驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="762.5" y="850" width="500" height="80" as="geometry" />
+          <mxGeometry x="690" y="850" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-111" value="传感器模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1330" width="80" height="30" as="geometry" />
