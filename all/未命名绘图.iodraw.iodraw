@@ -57,7 +57,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-20" value="虚拟机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
           <mxGeometry x="640" y="28" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-21" value="组合导航" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-21" value="手柄控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="208" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-23">
