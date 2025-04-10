@@ -179,8 +179,11 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-109" value="伺服总线驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="1040" width="500" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-111" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1298" width="50" height="30" as="geometry" />
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-111" value="传感器模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1120" width="1185" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
