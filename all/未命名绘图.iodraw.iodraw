@@ -11,9 +11,9 @@
           <mxGeometry x="1180" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I04AjUAUMIf3Xy5IbJhs-4" value="Индикатор питания" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="420" width="200" height="60" as="geometry" />
+          <mxGeometry x="140" y="460" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I04AjUAUMIf3Xy5IbJhs-5" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Индикатор сигнала&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="I04AjUAUMIf3Xy5IbJhs-5" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;#ba0000&quot;&gt;&lt;span style=&quot;font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;Индикатор сигнала&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
