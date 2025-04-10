@@ -384,6 +384,9 @@
         <mxCell id="T4-3Vj0E5ZIjlZVVWn3w-108" value="执行子系统（Подсистема исполнения）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
