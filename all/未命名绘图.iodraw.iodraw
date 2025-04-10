@@ -128,14 +128,11 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-46" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="860" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-48" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="800" width="125" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-49" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="810" width="125" height="60" as="geometry" />
+          <mxGeometry x="295" y="780" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-50" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="788" width="125" height="60" as="geometry" />
+          <mxGeometry x="555" y="790" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-51" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="790" width="125" height="60" as="geometry" />
