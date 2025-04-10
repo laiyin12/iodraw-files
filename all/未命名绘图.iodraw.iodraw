@@ -92,7 +92,7 @@
           <mxGeometry x="10" y="625" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="125" y="490" width="610" height="240" as="geometry" />
+          <mxGeometry x="125" y="550" width="610" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-43" value="状态估计Оценка состояния" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="572" width="130" height="60" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="490" width="462.5" height="240" as="geometry" />
+          <mxGeometry x="747.5" y="550" width="462.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-67" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="767.5" y="575" width="130" height="60" as="geometry" />
