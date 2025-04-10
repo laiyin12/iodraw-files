@@ -92,52 +92,52 @@
           <mxGeometry x="10" y="625" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="125" y="550" width="610" height="180" as="geometry" />
+          <mxGeometry x="125" y="500" width="610" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-43" value="状态估计Оценка состояния" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="572" width="130" height="60" as="geometry" />
+          <mxGeometry x="145" y="522" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-46" value="模型预测Прогнозы модели" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="642" width="270" height="70" as="geometry" />
+          <mxGeometry x="145" y="592" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-53" value="轨迹规划Планирование траектории" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="572" width="130" height="60" as="geometry" />
+          <mxGeometry x="285" y="522" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-54" value="通用函数Универсальные функции" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="572" width="130" height="60" as="geometry" />
+          <mxGeometry x="450" y="522" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-55" value="强化学习Обучение с подкреплением" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="642" width="270" height="70" as="geometry" />
+          <mxGeometry x="450" y="592" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-56" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="572" width="130" height="60" as="geometry" />
+          <mxGeometry x="590" y="522" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-54" target="Lm8VijUV--jWm_iQDWTy-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="550" width="462.5" height="180" as="geometry" />
+          <mxGeometry x="747.5" y="500" width="462.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-67" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="575" width="130" height="60" as="geometry" />
+          <mxGeometry x="767.5" y="525" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-68" value="状态估计Оценка состояния" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="642" width="410" height="70" as="geometry" />
+          <mxGeometry x="767.5" y="592" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-69" value="运动学解算Кинематическое решение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907.5" y="575" width="130" height="60" as="geometry" />
+          <mxGeometry x="907.5" y="525" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1145" y="632" as="sourcePoint" />
-            <mxPoint x="1145" y="632" as="targetPoint" />
+            <mxPoint x="1145" y="582" as="sourcePoint" />
+            <mxPoint x="1145" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-74" value="Нижний слой" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="900" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-75" value="逆运动学解算Решение обратной кинематики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1047.5" y="575" width="130" height="60" as="geometry" />
+          <mxGeometry x="1047.5" y="525" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="125" y="820" width="1075" height="200" as="geometry" />
