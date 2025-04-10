@@ -116,8 +116,8 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-41" value="中间层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="698" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="530" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
