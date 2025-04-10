@@ -1,0 +1,225 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="sTslec1PB0RU73QpD7dT">
+    <mxGraphModel dx="4324" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="165" y="110" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-4" value="感知原件Восприятие Оригинал" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="165" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-6" value="OLED表情OLED-выражения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-7" value="语音交互Голосовое взаимодействие" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-8" value="视觉识别Визуальная идентичность" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-11" value="感知计算单元Блок вычислений восприятия" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-12" value="组合导航Комбинированная навигация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-13" value="SLAM建模Моделирование SLAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-14" value="自主导航Автономная навигация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="130" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="110" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-20" value="虚拟机Виртуальные машины" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-21" value="手柄控制Управление геймпадом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-23" value="VNC远程控制Удаленное управление VNC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-24" value="上位机控制Управление хост-компьютером" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="130" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="860" y="110" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-27" value="老人特征捕捉Учет характеристик пожилых людей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="860" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-28" value="姿态捕捉Захват позы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-29" value="面部捕捉Захват лица" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-30" value="手势捕捉Захват жестов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="130" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-32" value="外部接口-载荷模块-扩展传感器&amp;nbsp;Внешний интерфейс - Модуль нагрузки - Расширенный датчик" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="378" width="820" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-34" value="模组Модули" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-36" value="顶层Верхний этаж" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-37" value="手持终端交互Взаимодействие с портативным терминалом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-38" value="遥控操作接口Интерфейс дистанционного управления" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-39" value="手持终端交互Взаимодействие с портативным терминалом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-40" value="手持终端交互Взаимодействие с портативным терминалом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-41" value="中间层Средний слой" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="125" y="500" width="610" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-43" value="状态估计Оценка состояния" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="522" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-46" value="模型预测Прогнозы модели" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="592" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-53" value="轨迹规划Планирование траектории" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="522" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-54" value="通用函数Универсальные функции" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="522" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-55" value="强化学习Обучение с подкреплением" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="592" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-56" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="522" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-54" target="Lm8VijUV--jWm_iQDWTy-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="500" width="462.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-67" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="525" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-68" value="状态估计Оценка состояния" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="592" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-69" value="运动学解算Кинематическое решение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="907.5" y="525" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="582" as="sourcePoint" />
+            <mxPoint x="1145" y="582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-74" value="Нижний слой" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-75" value="逆运动学解算Решение обратной кинематики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1047.5" y="525" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="710" width="1075" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-98" value="传感器采集Получение данных от датчика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="730" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-107" value="电池控制管理Система управления аккумуляторными батареями" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="820" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-108" value="电机驱动Привод двигателя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="820" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-109" value="伺服总线驱动Драйвер сервошин" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="730" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-111" value="传感器模块Сенсорный модуль" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="1005" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="955" width="455" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-114" value="IMU.声音传感器Звуковой датчик" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1005" width="385" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-115" value="传感器датчик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="965" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-116" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="701.5" y="950" width="470" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-117" value="舵机，电池Сервопривод, аккумулятор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="1000" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-118" value="控制单元Блок управления" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="960" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-119" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.241;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-113" target="Lm8VijUV--jWm_iQDWTy-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742.5" y="1280" as="sourcePoint" />
+            <mxPoint x="792.5" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-121" value="USB.RS232.UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lm8VijUV--jWm_iQDWTy-119">
+          <mxGeometry x="0.2415" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-122" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.76;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-97" target="Lm8VijUV--jWm_iQDWTy-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742.5" y="1280" as="sourcePoint" />
+            <mxPoint x="792.5" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-123" value="Ethacat CAN GPIO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lm8VijUV--jWm_iQDWTy-122">
+          <mxGeometry x="0.0202" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-124" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-10" target="Lm8VijUV--jWm_iQDWTy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="250" as="sourcePoint" />
+            <mxPoint x="730" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-125" value="ROS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lm8VijUV--jWm_iQDWTy-124">
+          <mxGeometry x="0.0476" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-127" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-19" target="Lm8VijUV--jWm_iQDWTy-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="250" as="sourcePoint" />
+            <mxPoint x="730" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-128" value="ROS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lm8VijUV--jWm_iQDWTy-127">
+          <mxGeometry x="0.0476" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
