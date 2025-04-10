@@ -164,6 +164,21 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-75" value="逆运动学解算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="750" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-77" value="外部接口-载荷模块-扩展传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="1095" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-78" value="手持终端交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="508" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-79" value="遥控操作接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="508" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-80" value="手持终端交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="508" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-81" value="手持终端交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="508" width="190" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
