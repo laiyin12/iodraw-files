@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sTslec1PB0RU73QpD7dT">
-    <mxGraphModel dx="1985" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-30" value="手势捕捉Захват жестов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865" y="130" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-32" value="外部接口-载荷模块-扩展传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-32" value="外部接口-载荷模块-扩展传感器&amp;nbsp;Внешний интерфейс - Модуль нагрузки - Расширенный датчик" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="820" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
@@ -89,7 +89,7 @@
           <mxGeometry x="760" y="400" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-41" value="中间层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="698" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="625" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="540" width="610" height="240" as="geometry" />
