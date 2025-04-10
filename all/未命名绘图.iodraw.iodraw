@@ -170,17 +170,14 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-98" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1030" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-100" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1040" width="270" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-101" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1050" width="270" height="70" as="geometry" />
+          <mxGeometry x="440" y="1110" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-102" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1060" width="270" height="70" as="geometry" />
+          <mxGeometry x="770" y="1110" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-103" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1070" width="270" height="70" as="geometry" />
+          <mxGeometry x="910" y="1030" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
