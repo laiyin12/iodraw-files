@@ -142,7 +142,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="125" y="820" width="1075" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-98" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-98" value="传感器采集Получение данных от датчика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="840" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-107" value="BBMS电池控制管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
