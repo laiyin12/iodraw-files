@@ -133,8 +133,8 @@
             <mxPoint x="1157.5" y="682" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-74" value="底层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="978" width="50" height="30" as="geometry" />
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-74" value="Нижний слой" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="978" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-75" value="逆运动学解算Решение обратной кинематики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="625" width="130" height="60" as="geometry" />
