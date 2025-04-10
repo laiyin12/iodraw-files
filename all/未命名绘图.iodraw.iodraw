@@ -171,12 +171,12 @@
           <mxGeometry x="210" y="1030" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-107" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1040" width="500" height="80" as="geometry" />
+          <mxGeometry x="215" y="1140" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-108" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1050" width="500" height="80" as="geometry" />
+          <mxGeometry x="790" y="1140" width="500" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-109" value="传感器采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-109" value="伺服总线驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="1040" width="500" height="80" as="geometry" />
         </mxCell>
       </root>
