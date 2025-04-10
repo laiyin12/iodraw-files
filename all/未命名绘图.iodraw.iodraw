@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="90" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-4" value="感知原件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="150" height="50" as="geometry" />
+          <mxGeometry x="40" y="30" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="210" width="150" height="40" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="160" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-8" value="视觉识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="110" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
