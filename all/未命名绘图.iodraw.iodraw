@@ -74,6 +74,21 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-25" value="ros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="126" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="98" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-27" value="虚拟机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="38" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-28" value="手柄控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="218" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-29" value="VNC远程控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="168" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-30" value="上位机控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="118" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
