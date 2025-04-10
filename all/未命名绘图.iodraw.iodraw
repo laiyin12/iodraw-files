@@ -188,8 +188,17 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-114" value="IMU.声音传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="1330" width="500" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-115" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="995" y="1288" width="50" height="30" as="geometry" />
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-115" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-116" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1290" width="540" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-117" value="IMU.声音传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1340" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-118" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
