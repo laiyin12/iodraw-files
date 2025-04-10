@@ -183,7 +183,10 @@
           <mxGeometry x="40" y="1330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1120" width="1185" height="230" as="geometry" />
+          <mxGeometry x="175" y="1280" width="540" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-114" value="BBMS电池控制管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1150" width="500" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
