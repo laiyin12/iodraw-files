@@ -116,9 +116,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="540" width="610" height="240" as="geometry" />
+          <mxGeometry x="760" y="540" width="462.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-67" value="状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-67" value="状态机Государственная машина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="625" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-68" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
