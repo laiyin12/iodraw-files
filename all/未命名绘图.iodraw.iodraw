@@ -149,7 +149,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-68" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="832" width="510" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-69" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-69" value="运动学解算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="762" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-74" value="底层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="978" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-75" value="运动学解算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="772" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
