@@ -31,8 +31,8 @@
         <mxCell id="I04AjUAUMIf3Xy5IbJhs-13" value="Mикрофон" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I04AjUAUMIf3Xy5IbJhs-14" value="Mикрофон" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="570" y="530" width="160" height="40" as="geometry" />
+        <mxCell id="I04AjUAUMIf3Xy5IbJhs-14" value="I2C-вход" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
