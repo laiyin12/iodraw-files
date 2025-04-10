@@ -405,8 +405,14 @@
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-5" value="Обработка функций" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub_o_8-wPD3yMu8mmZfJ-7" target="Ub_o_8-wPD3yMu8mmZfJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-7" value="Обучение модели" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2110" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-9" value="Обучение модели" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
