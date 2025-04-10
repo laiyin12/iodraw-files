@@ -122,7 +122,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-43" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="762" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-46" value="状态估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-46" value="模型预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="832" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-53" value="轨迹规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
