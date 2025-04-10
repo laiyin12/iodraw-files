@@ -393,7 +393,7 @@
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-2" value="Коллекция лиц" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-3" value="Предварительная обработка" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
