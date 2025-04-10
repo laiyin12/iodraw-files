@@ -206,6 +206,11 @@
             <mxPoint x="790" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-121" value="USB.RS232.UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lm8VijUV--jWm_iQDWTy-119">
+          <mxGeometry x="0.2415" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
