@@ -57,7 +57,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-20" value="虚拟机Виртуальные машины" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
           <mxGeometry x="765" y="48" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-21" value="手柄控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-21" value="手柄控制Управление геймпадом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="228" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-23">
@@ -65,7 +65,7 @@
             <mxPoint x="625" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-23" value="VNC远程控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-23" value="VNC远程控制Удаленное управление VNC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="178" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-24" value="上位机控制Управление хост-компьютером" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
