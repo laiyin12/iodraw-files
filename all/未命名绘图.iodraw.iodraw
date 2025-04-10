@@ -163,11 +163,11 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-114" value="IMU.声音传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="1115" width="385" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-115" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="1075" width="60" height="30" as="geometry" />
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-115" value="传感器датчик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="1075" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-116" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="705" y="1060" width="470" height="160" as="geometry" />
+          <mxGeometry x="699" y="1060" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-117" value="舵机，电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="735" y="1110" width="430" height="80" as="geometry" />
