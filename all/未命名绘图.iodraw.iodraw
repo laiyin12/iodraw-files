@@ -27,7 +27,7 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
           <mxGeometry x="465" y="110" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-11" value="感知计算单元" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-11" value="感知计算单元Блок вычислений восприятия" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D1E8;" vertex="1" parent="1">
           <mxGeometry x="465" y="50" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lm8VijUV--jWm_iQDWTy-12" value="组合导航" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
