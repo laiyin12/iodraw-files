@@ -200,14 +200,11 @@
         <mxCell id="Lm8VijUV--jWm_iQDWTy-118" value="控制单元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1045" y="1330" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-119" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.241;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Lm8VijUV--jWm_iQDWTy-97">
+        <mxCell id="Lm8VijUV--jWm_iQDWTy-119" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.241;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-113" target="Lm8VijUV--jWm_iQDWTy-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="1390" as="sourcePoint" />
             <mxPoint x="790" y="1340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Lm8VijUV--jWm_iQDWTy-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lm8VijUV--jWm_iQDWTy-114" target="Lm8VijUV--jWm_iQDWTy-113">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
