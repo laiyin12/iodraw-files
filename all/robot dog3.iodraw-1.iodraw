@@ -397,19 +397,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Предварительная обработка&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="2105" width="135" height="70" as="geometry" />
+          <mxGeometry x="207.5" y="2105" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub_o_8-wPD3yMu8mmZfJ-5" target="Ub_o_8-wPD3yMu8mmZfJ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-5" value="Обработка функций" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2105" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ub_o_8-wPD3yMu8mmZfJ-7" target="Ub_o_8-wPD3yMu8mmZfJ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-7" value="Обучение модели" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2110" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-9" value="Сопоставление лиц" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="2115" width="120" height="60" as="geometry" />
