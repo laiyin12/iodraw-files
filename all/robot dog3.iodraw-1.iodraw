@@ -414,6 +414,9 @@
         <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-9" value="Сопоставление лиц" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ub_o_8-wPD3yMu8mmZfJ-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2040" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
